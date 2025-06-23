@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+p {
+    color: green;
+    font-size: 16px;
+}
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: darkblue;
+    font-size: 20px;
+}
+h3 {
+    color: navy;
+    font-size: 18px;
+}
